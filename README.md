@@ -59,7 +59,7 @@ I'm especially interested in:
 - Developing backend services and APIs that support complex business workflows
 - Applying **AI and LLM solutions** in practical, high-value use cases
 - Improving engineering delivery through automation, CI/CD, and better developer workflows
-- Mentoring teams and contributing to strong engineering culture :contentReference[oaicite:8]{index=8}
+- Mentoring teams and contributing to strong engineering culture:contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -71,5 +71,5 @@ I care about writing code that is clean, practical, and built to last. I enjoy c
 
 ## 📫 Connect With Me
 
-- **Email:** john.hulbert.dev@gmail.com
+- **Email:** john.hulbert357@gmail.com
 - **Location:** Baton Rouge, Louisiana :contentReference[oaicite:10]{index=10}
